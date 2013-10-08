@@ -1,18 +1,15 @@
 package com.etete.tipcalculator;
 
 import java.text.NumberFormat;
-import java.math.BigDecimal;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnKeyListener;
 import android.widget.TextView;
 import android.widget.EditText;
-import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 
 
